@@ -1,5 +1,5 @@
 package api;
 
 public interface CACATDA {
-int caca;
+int caca = 0;
 }
